@@ -1,3 +1,10 @@
+body {
+  background-color: rgb(45, 14, 87);
+}
+.card {
+  width: 18rem;
+}
+
 .App {
   text-align: center;
 }
